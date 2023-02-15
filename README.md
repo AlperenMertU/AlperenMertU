@@ -29,9 +29,9 @@
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/denizlidebizenci">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=denizlidebizenci&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=denizlidebizenci&layout=compact&langs_count=8&theme=algolia"/>
+<a href="https://github.com/AlperenMertU">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AlperenMertU&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AlperenMertU&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
