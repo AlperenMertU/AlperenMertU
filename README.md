@@ -8,7 +8,6 @@
 🎓 &nbsp;I'm currently studying in Anadolu University: Economy.\
 🌱 &nbsp;I'm on track for learning more about Web Development, Design, and English.\
 ✍️ &nbsp;I am interested; Basketball and History especially: ww2, Turks history.\
-:basketball: &nbsp;I'm on the basketball team in college.\
 💬 &nbsp;Contact me with links.
 
 
