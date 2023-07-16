@@ -4,11 +4,10 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-🎓 &nbsp;I'm currently studying in Pamukkale University: Computer Programming.\
+🎓 &nbsp;I'm graduated in Pamukkale University: Computer Programming.\
 🎓 &nbsp;I'm currently studying in Anadolu University: Economy.\
-🌱 &nbsp;I'm on track for learning more about Web Development, Design, and English.\
-✍️ &nbsp;I am interested; Basketball and History especially: ww2, Turks history.\
-💬 &nbsp;Contact me with links.
+🌱 &nbsp;I'm on track for learning more about Web Development
+✍️ &nbsp;I am interested; Basketball and History
 
 
 
