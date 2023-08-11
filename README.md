@@ -44,5 +44,5 @@
 </p>
 
 <p align="center">
-<img alt="Night Coding" src="https://media.giphy.com/media/8vX95rXgKWs4kWCyyT/giphy.gif" align="center" />
+<img alt="Night Coding" src="https://media.giphy.com/media/xx0JzzsBXzcMK542tx/giphy.gif" align="center" />
 </p>
