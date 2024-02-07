@@ -2,19 +2,12 @@
 
 <!-- ## 👋 &nbsp;Hey there! I'm Mert -->
 
-### 👨🏻‍💻 &nbsp;About Me
-
-🎓 &nbsp;I'm graduated in Pamukkale University: Computer Programming.\
-🎓 &nbsp;I'm currently studying in Anadolu University: Economy.\
-🌱 &nbsp;I'm on track for learning more about Web Development
-✍️ &nbsp;I am interested; Basketball and History
-
-
 
 ### 🛠 &nbsp;Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![Vue](https://img.shields.io/badge/-Vue-05122A?style=flat&logo=vue)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)\
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
@@ -40,7 +33,6 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/mert-urdoğan-5b3284204/"><img src="https://img.shields.io/badge/Mert%20Urdoğan%20-0077B5?  style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="https://instagram.com/mertnoktakom"><img src="https://img.shields.io/badge/@mertnoktakom-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 </p>
 
 <p align="center">
